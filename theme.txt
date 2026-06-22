@@ -24,7 +24,6 @@ terminal-border: "0"
   item_icon_space = 18
   icon_height = 0
   selected_item_color = "#FFFFFF"
-  item_font = "Unifont Regular 16"
   item_spacing = 4
   selected_item_pixmap_style = "selected_item_*.png"
 }
